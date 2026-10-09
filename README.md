@@ -1,4 +1,6 @@
 # Banco Cordillera: tablero de riesgo y banca minorista
+## Presentado por: 
+Laura Rairan - Maria Rodriguez - Lorena Ostos
 
 Proyecto final 2026-2 de Herramientas de Visualización para la Inteligencia de Negocios (grupo 4, contexto banco de servicios financieros minoristas).
 El tablero está hecho en **Streamlit** y es, a la vez, la herramienta de análisis y la presentación de la sustentación: sus 7 pestañas siguen el orden de la exposición.
